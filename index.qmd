@@ -1,11 +1,18 @@
 ---
-title: "sparcworkgroup.github.io"
+title: "Statistical Practice and Research Collaboration (SPARC) Working Group"
+about:
+  template: trestles
+  image: image/profile.jpg
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com/SPARCworkgroup
+
 ---
 
-This is a Quarto website.
+::: {#about-block}
+:::
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Brief description
 
-```{r}
-1 + 1
-```
+

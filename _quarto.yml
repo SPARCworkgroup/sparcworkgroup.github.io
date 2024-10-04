@@ -2,19 +2,42 @@ project:
   type: website
   output-dir: docs
 
+  preview: 
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+execute:
+  freeze: true
+
 website:
-  title: "sparcworkgroup.github.io"
+  title: "Statistical Practice and Research Collaboration (SPARC) Working Group"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    right:
+      - text: "About"
+        href: about.qmd
+      - text: "People"
+        href: people.qmd
+      - text: "Meetings"
+        href: meet.qmd
+      - icon: github
+        href: https://github.com/SPARCworkgroup
+  search: 
+    location: navbar
+    type: textbox
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
-    toc: true
+    fontsize: 1.1em
+    theme: 
+      - pulse
+      - html/styles.scss
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true
 
 editor: visual
 
