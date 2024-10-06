@@ -10,9 +10,8 @@ about:
 
 ---
 
-::: {#about-block}
-:::
+::: {.column-body}
 
 Brief description
 
-
+:::
