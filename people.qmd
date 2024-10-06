@@ -1,9 +1,65 @@
 ---
-title: "About"
+title: "People"
+format: 
+  html:
+    toc: true
 ---
 
-About this site
+The success of the working group is built on the collective expertise and enthusiasm of the faculty, students, and researchers from Johns Hopkins University. We extend our gratitude to those who have generously contributed their time and knowledge, helping to establish and advance this collaborative initiative and enrich our research community.
 
-```{r}
-1 + 1
-```
+## Jiangxia Wang
+
+::: {.profile-header layout="[21,79]"}
+![](image/jiangxia_wang.jpg){.profile-pic}
+
+[**Jiangxia Wang**](https://publichealth.jhu.edu/faculty/2179/jiangxia-wang) | Description for Jiangxia Wang.
+
+:::
+
+## Carol Thompson
+
+::: {.profile-header layout="[21,79]"}
+![](image/carol_thompson.png){.profile-pic}
+
+Carol Thompson | Description for Carol Thompson.
+:::
+
+## Gayane Yenokyan
+
+::: {.profile-header layout="[21,79]"}
+![](image/gayane_yenokyan.png){.profile-pic}
+
+Gayane Yenokyan | Description for Gayane Yenokyan.
+:::
+
+## Josh Betz
+
+::: {.profile-header layout="[21,79]"}
+![](image/josh_Betz.png){.profile-pic}
+
+Josh Betz | Description for Josh Betz.
+:::
+
+## Michelle Qin
+
+::: {.profile-header layout="[21,79]"}
+![](image/michelle_qin.png){.profile-pic}
+
+Michelle Qin | Description for Michelle Qin.
+:::
+
+## Elizabeth Wagner
+
+::: {.profile-header layout="[21,79]"}
+![](image/elizabeth_wagner.png){.profile-pic}
+
+Elizabeth Wagner | Description for Elizabeth Wagner.
+:::
+
+## Yangzhenyu Gao
+
+::: {.profile-header layout="[21,79]"}
+![](image/yangzhenyu_gao.png){.profile-pic}
+
+Yangzhenyu Gao | Description for Yangzhenyu Gao.
+:::

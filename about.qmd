@@ -2,8 +2,10 @@
 title: "About"
 ---
 
-About this site
+# Our Mission
 
-```{r}
-1 + 1
-```
+The **Statistical Practice And Research Collaboration (SPARC) Working Group** is committed to fostering excellence in statistical collaboration at Johns Hopkins University (JHU). Our mission is to serve as a vibrant hub for learning, exchange, and collaboration among students, faculty, and statisticians from across JHU’s various departments and centers.
+
+SPARC provides valuable opportunities for master's and PhD students to deepen their understanding of statistical collaboration, which is essential not only for securing a job but also for thriving in a career. Through formats such as lightning talks, grand rounds, and interactive case studies, we aim to cover all aspects of successful collaboration, preparing our students for diverse roles in academia, government, and industry.
+
+At SPARC, we believe that effective collaboration is key to driving impactful research and career success. Our goal is to empower students with the skills and experiences they need to become leaders in their fields, while promoting the exchange of best practices in statistical research and collaboration.

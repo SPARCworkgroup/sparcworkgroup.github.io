@@ -2,9 +2,58 @@
   {
     "objectID": "people.html",
     "href": "people.html",
-    "title": "About",
+    "title": "People",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "The success of the working group is built on the collective expertise and enthusiasm of the faculty, students, and researchers from Johns Hopkins University. We extend our gratitude to those who have generously contributed their time and knowledge, helping to establish and advance this collaborative initiative and enrich our research community."
+  },
+  {
+    "objectID": "people.html#jiangxia-wang",
+    "href": "people.html#jiangxia-wang",
+    "title": "People",
+    "section": "Jiangxia Wang",
+    "text": "Jiangxia Wang\n\n\n\n\n\n\n\n\n\nJiangxia Wang | Description for Jiangxia Wang."
+  },
+  {
+    "objectID": "people.html#carol-thompson",
+    "href": "people.html#carol-thompson",
+    "title": "People",
+    "section": "Carol Thompson",
+    "text": "Carol Thompson\n\n\n\n\n\n\n\n\n\nCarol Thompson | Description for Carol Thompson."
+  },
+  {
+    "objectID": "people.html#gayane-yenokyan",
+    "href": "people.html#gayane-yenokyan",
+    "title": "People",
+    "section": "Gayane Yenokyan",
+    "text": "Gayane Yenokyan\n\n\n\n\n\n\n\n\n\nGayane Yenokyan | Description for Gayane Yenokyan."
+  },
+  {
+    "objectID": "people.html#josh-betz",
+    "href": "people.html#josh-betz",
+    "title": "People",
+    "section": "Josh Betz",
+    "text": "Josh Betz\n\n\n\n\n\n\n\n\n\nJosh Betz | Description for Josh Betz."
+  },
+  {
+    "objectID": "people.html#michelle-qin",
+    "href": "people.html#michelle-qin",
+    "title": "People",
+    "section": "Michelle Qin",
+    "text": "Michelle Qin\n\n\n\n\n\n\n\n\n\nMichelle Qin | Description for Michelle Qin."
+  },
+  {
+    "objectID": "people.html#elizabeth-wagner",
+    "href": "people.html#elizabeth-wagner",
+    "title": "People",
+    "section": "Elizabeth Wagner",
+    "text": "Elizabeth Wagner\n\n\n\n\n\n\n\n\n\nElizabeth Wagner | Description for Elizabeth Wagner."
+  },
+  {
+    "objectID": "people.html#yangzhenyu-gao",
+    "href": "people.html#yangzhenyu-gao",
+    "title": "People",
+    "section": "Yangzhenyu Gao",
+    "text": "Yangzhenyu Gao\n\n\n\n\n\n\n\n\n\nYangzhenyu Gao | Description for Yangzhenyu Gao."
   },
   {
     "objectID": "index.html",
@@ -18,13 +67,34 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Our Mission\nThe Statistical Practice And Research Collaboration (SPARC) Working Group is committed to fostering excellence in statistical collaboration at Johns Hopkins University (JHU). Our mission is to serve as a vibrant hub for learning, exchange, and collaboration among students, faculty, and statisticians from across JHU’s various departments and centers.\nSPARC provides valuable opportunities for master’s and PhD students to deepen their understanding of statistical collaboration, which is essential not only for securing a job but also for thriving in a career. Through formats such as lightning talks, grand rounds, and interactive case studies, we aim to cover all aspects of successful collaboration, preparing our students for diverse roles in academia, government, and industry.\nAt SPARC, we believe that effective collaboration is key to driving impactful research and career success. Our goal is to empower students with the skills and experiences they need to become leaders in their fields, while promoting the exchange of best practices in statistical research and collaboration."
   },
   {
     "objectID": "meet.html",
     "href": "meet.html",
-    "title": "About",
+    "title": "Meeting Schedule",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Panel Discussion: TBA\nFeaturing Panelists: TBA\nHighlights: TBA"
+  },
+  {
+    "objectID": "meet.html#next-meeting",
+    "href": "meet.html#next-meeting",
+    "title": "Meeting Schedule",
+    "section": "",
+    "text": "Panel Discussion: TBA\nFeaturing Panelists: TBA\nHighlights: TBA"
+  },
+  {
+    "objectID": "meet.html#upcoming-meetings",
+    "href": "meet.html#upcoming-meetings",
+    "title": "Meeting Schedule",
+    "section": "Upcoming meetings:",
+    "text": "Upcoming meetings:\n\n11/22/2024\n\nPanel Discussion: Effective Communication methods\nFeaturing Panelists: TBA\nHighlights: TBA"
+  },
+  {
+    "objectID": "meet.html#previous-meetings",
+    "href": "meet.html#previous-meetings",
+    "title": "Meeting Schedule",
+    "section": "Previous meetings:",
+    "text": "Previous meetings:\n\n09/27/2024\n\nPanel Discussion: Defining An Ideal Statistical Collaboration\nFeaturing Panelists: Scott Zeger, Elizabeth Colantuoni, Marilyn Albert, Michelle R. Kaufman\nHighlights: TBA"
   }
 ]

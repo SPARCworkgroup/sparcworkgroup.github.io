@@ -1,9 +1,26 @@
 ---
-title: "About"
+title: "Meeting Schedule"
+format: 
+  html:
+    toc: true
 ---
 
-About this site
+## Next meeting:
+### 10/25/2024
+*    Panel Discussion: TBA
+*    Featuring Panelists: TBA
+*    Highlights: TBA
 
-```{r}
-1 + 1
-```
+
+## Upcoming meetings:
+### 11/22/2024
+*    Panel Discussion: Effective Communication methods
+*    Featuring Panelists: TBA
+*    Highlights: TBA
+
+
+## Previous meetings:
+### 09/27/2024
+*    Panel Discussion: Defining An Ideal Statistical Collaboration
+*    Featuring Panelists: Scott Zeger, Elizabeth Colantuoni, Marilyn Albert, Michelle R. Kaufman
+*    Highlights: TBA

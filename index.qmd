@@ -1,8 +1,8 @@
 ---
 title: "Statistical Practice and Research Collaboration (SPARC) Working Group"
+image: image/profile.jpg
 about:
   template: trestles
-  image: image/profile.jpg
   links: 
     - icon: github
       text: Github
